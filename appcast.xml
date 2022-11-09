@@ -9,9 +9,9 @@
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <description>
-                test upload
+                upload test
             </description>
-            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/25/Astro.dmg" type="application/octet-stream" sparkle:edSignature="ntXWlRgSZCysMZuxOmhK5wV48KgIDeE0W2fB8753/9QNalCmtdVLkfpldvdunGD6jT1AR4guqLAJ/0xxCfWtAQ==" length="4431405"
+            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/25/Astro.dmg" type="application/octet-stream" sparkle:edSignature="M3ITdMSLvswkWwrTFgwfoPsOArMS3ZY7zL1TNl03v6kz33LOJI0P8fLjxRNI0rcGWuiQpMIH52jfED70XBuECg==" length="4421984"
  /> 
         </item>
     </channel>
