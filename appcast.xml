@@ -9,9 +9,9 @@
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <description>
-                Bug Fixing.
+                Bug Fixing
             </description>
-            <enclosure url="https://github.com/matteospada/astro_beta/releases/download/27/Astro.dmg" type="application/octet-stream" sparkle:edSignature="UmkkCIUOuZ+4yF/jEF4eiHpeaysR8eqTJur9PeW+jl2F9dpuxecnMk1ECcSOCw4vKTakr6Uuz12pfuP0TGvsDg==" length="4114690"
+            <enclosure url="https://github.com/matteospada/astro/releases/download/27/Astro.dmg" type="application/octet-stream" sparkle:edSignature="6vWg2OReDABlTH8yTyeWFVP5Ii4IlvI4GUZVsXoeop+/zmlB4l9EsmIApv3TGaxtH+UP12LbmntHjAo9g6aWBQ==" length="4114752"
  /> 
         </item>
     </channel>
