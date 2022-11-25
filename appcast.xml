@@ -3,15 +3,15 @@
     <channel>
         <title>Astro</title>
         <item>
-            <title>Version 27</title>
+            <title>Version 28</title>
             <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
-            <sparkle:version>27</sparkle:version>
+            <sparkle:version>28</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <description>
-                Bug Fixing
+                Added support view
             </description>
-            <enclosure url="https://github.com/matteospada/astro/releases/download/27/Astro.dmg" type="application/octet-stream" sparkle:edSignature="6vWg2OReDABlTH8yTyeWFVP5Ii4IlvI4GUZVsXoeop+/zmlB4l9EsmIApv3TGaxtH+UP12LbmntHjAo9g6aWBQ==" length="4114752"
+            <enclosure url="https://github.com/matteospada/astro/releases/download/28/Astro.dmg" type="application/octet-stream" sparkle:edSignature="8A71/ehArFQ0xJVUcFXU8i7QJXxHCzJeQwaJsRZPIfC37XVq4Y7Xh2V4CUOZRrBVFUW551Ssy2VJtuhkV68BDA==" length="4116605"
  /> 
         </item>
     </channel>
