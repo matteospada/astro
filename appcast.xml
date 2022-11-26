@@ -3,15 +3,15 @@
     <channel>
         <title>Astro</title>
         <item>
-            <title>Version 28</title>
+            <title>Version 30</title>
             <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
-            <sparkle:version>28</sparkle:version>
+            <sparkle:version>30</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <description>
-                Added support view
+                Fixed Lifetime subscription bug.
             </description>
-            <enclosure url="https://github.com/matteospada/astro/releases/download/28/Astro.dmg" type="application/octet-stream" sparkle:edSignature="8A71/ehArFQ0xJVUcFXU8i7QJXxHCzJeQwaJsRZPIfC37XVq4Y7Xh2V4CUOZRrBVFUW551Ssy2VJtuhkV68BDA==" length="4116605"
+            <enclosure url="https://github.com/matteospada/astro/releases/download/30/Astro.dmg" type="application/octet-stream" sparkle:edSignature="y7d2LmuAZ7IjFZlavsq7wXkbxBQEn3+DScsQHEmJTizhKY8KXfwFcNOUO/0tlN1nT4cD8Uospqb3R2MGu1ifBA==" length="4116516"
  /> 
         </item>
     </channel>
