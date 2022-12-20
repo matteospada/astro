@@ -3,15 +3,15 @@
     <channel>
         <title>Astro</title>
         <item>
-            <title>Version 30</title>
+            <title>Version 31</title>
             <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
-            <sparkle:version>30</sparkle:version>
+            <sparkle:version>31</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <description>
-                Fixed Lifetime subscription bug.
+                Lemon Squeezy Integration
             </description>
-            <enclosure url="https://github.com/matteospada/astro/releases/download/30/Astro.dmg" type="application/octet-stream" sparkle:edSignature="y7d2LmuAZ7IjFZlavsq7wXkbxBQEn3+DScsQHEmJTizhKY8KXfwFcNOUO/0tlN1nT4cD8Uospqb3R2MGu1ifBA==" length="4116516"
+            <enclosure url="https://github.com/matteospada/astro/releases/download/31/Astro.dmg" type="application/octet-stream" sparkle:edSignature="U20hwFbbki9knUufAgMNPVpwtPGITByb6+tnjiLzJjKDwhTtUU3rvEMwdxy0/l49eqcD0dRw6qN5nyT+QWC8BQ==" length="4169392"
  /> 
         </item>
     </channel>
