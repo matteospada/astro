@@ -3,15 +3,15 @@
     <channel>
         <title>Astro</title>
         <item>
-            <title>Version 37</title>
+            <title>Version 40</title>
             <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
-            <sparkle:version>37</sparkle:version>
-            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+            <sparkle:version>40</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <description>
-                A new layout for the suggestions menu has been implemented, now all suggestions are displayed in a single view to make it easier to discover new keywords. A setting has been added to change the default font size of the app. A button has been added to update the app's name. Bug fixing"
+                New authentication via app-specific password. New chart view on macOS 13.0. Performance improvements.
             </description>
-            <enclosure url="https://github.com/matteospada/astro/releases/download/37/Astro.dmg" type="application/octet-stream" sparkle:edSignature="u9qXx07oY3Lp5+HY1Ob0ICp98LiAXNi2QNfyqBAVeFHl6rrKx1pOxJ8/c3KF+u1SjzYVzxZNThCvr1V44UMMCg==" length="4909307"
+            <enclosure url="https://github.com/matteospada/astro/releases/download/40/Astro.dmg" type="application/octet-stream" sparkle:edSignature="r/eNU5B1hQecq4OiYJvx0sQCzcsf/pcgTYqkVM7FFu556znQ/iu3pHWmaSv6RGw2WRqUHdCnoyE5scH/NopYAg==" length="4938165"
  /> 
         </item>
     </channel>
