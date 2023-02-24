@@ -3,15 +3,15 @@
     <channel>
         <title>Astro</title>
         <item>
-            <title>Version 41</title>
+            <title>Version 42</title>
             <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
-            <sparkle:version>41</sparkle:version>
-            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+            <sparkle:version>42</sparkle:version>
+            <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <description>
-                New authentication via app-specific password. New chart view on macOS 13.0. Performance improvements, Bug Fixing.
+                Certificate Update
             </description>
-            <enclosure url="https://github.com/matteospada/astro/releases/download/41/Astro.dmg" type="application/octet-stream" sparkle:edSignature="oAsYPt+CnTmr4T7YxW9oav0u0VS7QjWsP47h3PBjJxHM4U5MmRtSu5zoSHx7keuTfSQsOaGSYRwDy3jZHtZrCg==" length="4940148"
+            <enclosure url="https://github.com/matteospada/astro/releases/download/42/Astro.dmg" type="application/octet-stream" sparkle:edSignature="HsTmPGtLUx9LSx+RmAjeZSjmGOEjUCY+hArlRZDY/FOIEjwXR4/Tq5tKm2863Bthn0rfB7lYYALdxszlFDs9BQ==" length="4940069"
  /> 
         </item>
     </channel>
