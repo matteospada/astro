@@ -3,15 +3,15 @@
     <channel>
         <title>Astro</title>
         <item>
-            <title>Version 48</title>
+            <title>Version 54</title>
             <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
-            <sparkle:version>48</sparkle:version>
-            <sparkle:shortVersionString>1.1.5</sparkle:shortVersionString>
+            <sparkle:version>54</sparkle:version>
+            <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <description>
-                SSL certificate issue has been resolved.
+                In this version: New suggestion view with indication of the keyword that generated the suggestion. Added the ability to create temporary apps to analyze keywords before releasing the app. Performance improvements.
             </description>
-            <enclosure url="https://github.com/matteospada/astro/releases/download/48/Astro.dmg" type="application/octet-stream" sparkle:edSignature="i+5AUZq9FzDj71iD6G9kTR7dbTZy7aSHQh9Nc94xh6NK30cktTW/2OELm+s7/Sw2KAkRNx2seagRl2o2frveDg==" length="4756623"
+            <enclosure url="https://github.com/matteospada/astro/releases/download/54/Astro.dmg" type="application/octet-stream" sparkle:edSignature="gZOTBzw8iqSw3OqAckJR1xMHoXoMBl5nBL4h+6+hT9UIIeWzpmrS4oUJUvLDf2He2ycD1RXNNaBnXX0Uz1z0Bw==" length="4817718"
  /> 
         </item>
     </channel>
