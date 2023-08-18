@@ -3,15 +3,15 @@
     <channel>
         <title>Astro</title>
         <item>
-            <title>Version 66</title>
+            <title>Version 67</title>
             <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
-            <sparkle:version>66</sparkle:version>
-            <sparkle:shortVersionString>1.5.4</sparkle:shortVersionString>
+            <sparkle:version>67</sparkle:version>
+            <sparkle:shortVersionString>1.5.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <description>
-                Bug fixing and performance improvements.
+                Fixed a bug that occurred during login.
             </description>
-            <enclosure url="https://github.com/matteospada/astro/releases/download/66/Astro.dmg" type="application/octet-stream" sparkle:edSignature="aDaFKPrdk3Nkz0aqHhB5mQ6zwE3y1pdUpNMHMhTVoPRvHrPVyYTbuFTzI6nMYCw1G2PmEqKxDAKpjF0DPEg8BA==" length="5222642"
+            <enclosure url="https://github.com/matteospada/astro/releases/download/67/Astro.dmg" type="application/octet-stream" sparkle:edSignature="D53RihQEZD0AKNqabx95e/kYvQVXMh5bO2dWotcvxKPpKHdKxJRf6Ow7dMhOA0bYQofd52Eg84O6mduC+6JLCw==" length="5167398"
  /> 
         </item>
     </channel>
