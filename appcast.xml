@@ -3,15 +3,15 @@
     <channel>
         <title>Astro</title>
         <item>
-            <title>Version 69</title>
+            <title>Version 70</title>
             <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
-            <sparkle:version>69</sparkle:version>
-            <sparkle:shortVersionString>1.5.7</sparkle:shortVersionString>
+            <sparkle:version>70</sparkle:version>
+            <sparkle:shortVersionString>1.5.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <description>
-                Fixed an authentication problem
+                Fixed a problem in the suggestion view that did not allow keywords to be added.
             </description>
-            <enclosure url="https://github.com/matteospada/astro/releases/download/69/Astro.dmg" type="application/octet-stream" sparkle:edSignature="XnK/M4o64f8+wYWZ6OUzcDKaks6bzu+zOuMa/axAtwZ9EVO4sT5Ng2l6Rsk14HgCYdjGy0UuZAX0D5vFQGJ0AA==" length="5078349"
+            <enclosure url="https://github.com/matteospada/astro/releases/download/70/Astro.dmg" type="application/octet-stream" sparkle:edSignature="cdgVTUy6i32KaM7PHK/drYMXh7kNV1FJr0SgjrHCfGdiaFmkNRWdfdVXJvOHpfKGZXhUAhZD0malEbNqxOLsDg==" length="5079210"
  /> 
         </item>
     </channel>
