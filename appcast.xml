@@ -3,18 +3,15 @@
     <channel>
         <title>Astro</title>
         <item>
-            <title>Version 75</title>
+            <title>Version 81</title>
             <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
-            <sparkle:version>75</sparkle:version>
-            <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
+            <sparkle:version>81</sparkle:version>
+            <sparkle:shortVersionString>1.7.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <description>
-                You can finally change the order of the Apps in the sidebar
-The preferred table sorting order is automatically saved now.
-Restored support for macOS 12.0
-Bug Fixing.
+                Ranking updated with Apple's new algorithm.
             </description>
-            <enclosure url="https://github.com/matteospada/astro/releases/download/75/Astro.dmg" type="application/octet-stream" sparkle:edSignature="xR9T5nSbndXvxdWkVIwKOV6hyKFgiTYbXvC+UZWEayeDbyoygG2C46/gKhzQynHvRyRkRhjFyMFk6JEVXkF7Bg==" length="5123351"
+            <enclosure url="https://github.com/matteospada/astro/releases/download/81/Astro.dmg" type="application/octet-stream" sparkle:edSignature="X+gcuBBLGR21pX0bFwb4CUC/3IULrQ5hR20azp63xwc+dWMBh9Y5lQYSDgIB047NbsG3cgYsLZws400wPrBlCw==" length="4789985"
  /> 
         </item>
     </channel>
