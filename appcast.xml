@@ -3,15 +3,15 @@
     <channel>
         <title>Astro</title>
         <item>
-            <title>Version 82</title>
+            <title>Version 91</title>
             <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
-            <sparkle:version>82</sparkle:version>
-            <sparkle:shortVersionString>1.7.2</sparkle:shortVersionString>
+            <sparkle:version>91</sparkle:version>
+            <sparkle:shortVersionString>1.7.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <description>
-                Ranking updated with Apple's new algorithm. Bug Fixing.
+                Fixed a date localization issue
             </description>
-            <enclosure url="https://github.com/matteospada/astro/releases/download/82/Astro.dmg" type="application/octet-stream" sparkle:edSignature="NjkfQf0DGrRe54xA5KptDqOz4Z8RLELp4hca7lM4LmeNkhFiro4RgNnZB6EXEI87zF18T0EAb+BzdyW4/dIzCQ==" length="4790314"
+            <enclosure url="https://github.com/matteospada/astro/releases/download/91/Astro.dmg" type="application/octet-stream" sparkle:edSignature="0UJ4Mj/BF8+e7X5qU1uDRCVdn7+/AatHiTvYFXyPgnuPGuWYKmQIHJFdIa6DDVLSMWDCOW+4tXl6/pLeh8pJCw==" length="4792312"
  /> 
         </item>
     </channel>
