@@ -3,16 +3,16 @@
     <channel>
         <title>Astro</title>
         <item>
-            <title>Version 105</title>
+            <title>Version 106</title>
             <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
-            <sparkle:version>105</sparkle:version>
-            <sparkle:shortVersionString>1.9.2</sparkle:shortVersionString>
+            <sparkle:version>106</sparkle:version>
+            <sparkle:shortVersionString>1.10.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <sparkle:criticalUpdate/>
             <description>
-                Added the ability to filter keywords by difficulty and popularity. Added the ability to copy keywords with full details. Added the ability to sort keywords by the notes column.
+                Added keywords update indicator. Bug fixing.
             </description>
-            <enclosure url="https://github.com/matteospada/astro/releases/download/105/Astro.dmg" type="application/octet-stream" sparkle:edSignature="fgttxIPDZkcUIIOejW/UZzr9FCu4naNlD6PICinF8IAEoLCviNwrVey7BcgQlXJQiBogfUsEKdDSFdof2/J2DQ==" length="5058992"
+            <enclosure url="https://github.com/matteospada/astro/releases/download/106/Astro.dmg" type="application/octet-stream" sparkle:edSignature="ZMNUQDz/frk2VoeiviU6XW7v+CZwCWDEubhzGTuA0kEdi4xCpQB/wia6+XJ0nf1MZWcppUn6kevDXqoKR/myBw==" length="5078746"
  /> 
         </item>
     </channel>
