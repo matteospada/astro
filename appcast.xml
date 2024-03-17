@@ -3,16 +3,16 @@
     <channel>
         <title>Astro</title>
         <item>
-            <title>Version 114</title>
+            <title>Version 115</title>
             <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
-            <sparkle:version>114</sparkle:version>
+            <sparkle:version>115</sparkle:version>
             <sparkle:shortVersionString>1.13.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <sparkle:criticalUpdate/>
             <description>
-                UX improvements for tags. Added localization details for each store. Added the ability to remove "top 5 icons" to make the interface more responsive. Bug fixing.
+                Fixed a bug in Vision Ranking.
             </description>
-            <enclosure url="https://github.com/matteospada/astro/releases/download/114/Astro.dmg" type="application/octet-stream" sparkle:edSignature="fsQol2Ff7+AX0ckIqdPsRXkKsBcQPc8Pp4MYM90+JH5jyhqhZXbHfnabmk6FtlGtIcsW8NkgciR/ryWg1zN4BQ==" length="5209009"
+            <enclosure url="https://github.com/matteospada/astro/releases/download/115/Astro.dmg" type="application/octet-stream" sparkle:edSignature="KU9JppZkvNc69Snk4m6PwAdSCTgkS5UkKUv6MGRGVMeAbvJDKKj/P0Y2Dt0ZKozTNReCBNCZ4jSRFfRDPoMnCg==" length="5210730"
  /> 
         </item>
     </channel>
