@@ -3,16 +3,16 @@
     <channel>
         <title>Astro</title>
         <item>
-            <title>Version 122</title>
+            <title>Version 123</title>
             <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
-            <sparkle:version>122</sparkle:version>
-            <sparkle:shortVersionString>1.14.2</sparkle:shortVersionString>
+            <sparkle:version>123</sparkle:version>
+            <sparkle:shortVersionString>1.14.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <sparkle:criticalUpdate/>
             <description>
-                This update fix a problem that did not allow keywords to be updated.
+                Bug Fixing and performance improvements.
             </description>
-            <enclosure url="https://github.com/matteospada/astro/releases/download/122/Astro.dmg" type="application/octet-stream" sparkle:edSignature="SfhbPWTwYHjnF0PZ0MEWfU0QJ3g22OVH3SE6eUOPnYK9PfbiU2Uf5Tx81hZSpND6oGB9m0MsTwyubOsXAEwgBA==" length="8438577"
+            <enclosure url="https://github.com/matteospada/astro/releases/download/123/Astro.dmg" type="application/octet-stream" sparkle:edSignature="PO3IPUid4ycbjGibMv9SChd+SC3hBKeayjnLkfjQ5hHuAGSli77Q13L8ZaKSbHQvGFVPGuA67Wul1zf9B20kBQ==" length="8470681"
  /> 
         </item>
     </channel>
