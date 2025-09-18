@@ -3,14 +3,14 @@
     <channel>
         <title>Astro</title>
         <item>
-            <title>Version 262</title>
+            <title>Version 263</title>
             <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
-            <sparkle:version>262</sparkle:version>
-            <sparkle:shortVersionString>2025.10.1</sparkle:shortVersionString>
+            <sparkle:version>263</sparkle:version>
+            <sparkle:shortVersionString>2025.11.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <sparkle:criticalUpdate/>
             <sparkle:releaseNotesLink>https://tryastro.app/release_notes</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/matteospada/astro/releases/download/262/Astro.dmg" type="application/octet-stream" sparkle:edSignature="z04EKb4wmQTmWdpnxLk2D3k1YjkyF/Y5jJGTcUFYQlo6LpID9o73gTcsltpq5NElZlGHaw5/zcTy1pfk0+8vAg==" length="9154914"
+            <enclosure url="https://github.com/matteospada/astro/releases/download/263/Astro.dmg" type="application/octet-stream" sparkle:edSignature="pw1IB4mSb1qOKewlauFZrzd2Ch2On2PQHYilUmFLoHOe4G8ITP3WuB3p09lKB377R1Fy95hO8aiv7HWmtD3TAA==" length="9156499"
  /> 
         </item>
     </channel>
